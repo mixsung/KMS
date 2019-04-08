@@ -1,0 +1,23 @@
+<html 태그>
+1. <span> : grouping a inlilne element
+2. <strong> : important text
+3. <i> : italic font
+4. <div> : section
+5. <select> : A drop-down list
+6. <option> : option in drop-down list
+7. <ol> : ordered lists
+8. <li> : list
+9. <ul> : unordered lists
+10. <video> : play a video
+
+<css 태그>
+1. color: element color
+2. font-color: font color
+3. background-color: background-color
+4. outline: make a outline
+5. font-family: choose a kind of font
+6. width: defines width
+7. height: defines height
+8. padding: an area around the content
+9. border: an area around the padding and content
+10. margin: an area around the border.
