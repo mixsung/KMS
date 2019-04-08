@@ -1,0 +1,19 @@
+#outline_1,
+#outline_2 {
+  outline: dashed;
+  font-size: 20px;
+}
+.outline_3 {
+  outline: dashed;
+  color: blue;
+  font-size: 20px;
+}
+.outline_3:hover {
+  background-color: skyblue;
+}
+h1 {
+  background-color: #f44336;
+  padding: 14px 25px;
+  text-decoration: none;
+  display: inline-block;
+}
