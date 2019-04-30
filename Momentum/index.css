@@ -6,6 +6,11 @@ h1 {
   color: #ffff;
   font-size: 150px;
   text-align: center;
+  margin-top: 30px;
+}
+
+button {
+  margin: 10px;
 }
 
 form {
@@ -51,4 +56,18 @@ span {
   height: 100%;
   z-index: -1;
   animation: fadeIn 0.5s linear;
+}
+
+.js-greetings {
+  text-align: center;
+  color: #ffff;
+  font-size: 50px;
+  margin: 10px;
+}
+
+.js-toDoList {
+  text-align: center;
+}
+li {
+  font-size: 50px;
 }
